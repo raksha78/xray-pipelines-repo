@@ -3,7 +3,7 @@ resources:
     type: GitRepo
     configuration:
       gitProvider: s_gitHub
-      path: abhishekk012/xray-pipelines-repo
+      path: raksha78/xray-pipelines-repo
       branches:
         include: .*
   - name: S_NpmPublish_6679_001_buildInfo
